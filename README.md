@@ -4,8 +4,9 @@
 ## 项目列表
 在这个仓库中，我们将分享各种类型的Qt项目。以下是一些可以在这里找到的项目示例：
 
-[计算器](project/Calculator)
-[消息箱](project/Dialog_Box)
+* [计算器](project/Calculator)
+
+* [消息箱](project/Dialog_Box)
 
 ## 如何贡献
 我们欢迎您贡献自己的Qt项目到这个仓库中。如果您想分享您的项目，可以按照以下步骤：
