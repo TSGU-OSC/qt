@@ -13,7 +13,9 @@
 
 
 #### 代码指向
-目前暂无
 
+主代码文件夹(https://gitee.com/wei-luzhu/qt/tree/master/project/gobangFiveChess)
 
 #### 注意事项
+
+本项目代码仅供开源，如有需要商用，请联系代码的作者
