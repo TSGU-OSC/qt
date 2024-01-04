@@ -11,4 +11,8 @@
 - [Gobang](./gobangFiveChess)五子棋案例是一个经典的棋类游戏，玩家可以在一个GUI界面上与计算机对弈。 
 
 - [Dialog_Box](./Dialog_Box)消息箱案例是一个简单的消息管理应用程序，用于发送、接收和显示消息。
+
+- [gobang](./gobangFiveChess/)
+
+- [CoinFlip](./CoinFlip/)翻金币游戏
   
